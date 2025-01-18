@@ -8,7 +8,7 @@ Data Visualization tool: Tableau Desktop
 
 Data Source: Institutional student records (2019-2023)
 
-## KPI's
+# KPI's
 ## Gender Map: 
 Percentage of male and female students per course.
 Achieve a balanced gender distribution across all programs.
