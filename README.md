@@ -1,7 +1,7 @@
 # Institute's Program Profile Dashboard
-## Project Objective
+# Project Objective
 Identify enrollment trends and gender distribution patterns to inform future admission strategies from 2019 to 2023. Enhance institutional diversity and inclusivity.
-## Technologies used
+# Technologies used
 Data Pre-processing tool: Tableau Prep
 
 Data Visualization tool: Tableau Desktop
@@ -24,8 +24,8 @@ Ensure all students complete programs within the stipulated time frame.
 Enhance geographic diversity in student enrolment.
 Percentage of students from different states.
 <a href="https://prod-apnortheast-a.online.tableau.com/t/iiitbcampusanalytics/views/CaDashboardPrgm/ProgramProfile?:origin=card_share_link&:embed=n">Program profile Dashboard</a>
-## Process
+# Process
 Collected institutional data in Excel, preprocessed and cleaned it using Tableau Prep, and developed insightful reports and interactive dashboards in Tableau Desktop to uncover trends and support data-driven decision-making.
-## Dashboard
+# Dashboard
 ![Program Profile](https://github.com/user-attachments/assets/24d5163b-5b92-4fcf-8f43-f820e784fbc8)
 
